@@ -10,7 +10,7 @@ pub_date: 2021
 date: 2021-04-01
 abstract:
     Performing image deblurring by recovering exposure trajectories directly from motion-blurred images.
-cover: "./assets/images/covers/MotionETR.png"
+cover: ./assets/images/covers/MotionETR.png
 links:
     Paper: "https://arxiv.org/pdf/2010.02484"
     Code: "https://github.com/yjzhang96/Motion-ETR"
