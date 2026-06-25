@@ -2,7 +2,7 @@
 title: "MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving"
 authors: 
     - Hongli Xiao*
-    - Youjian Zhang*
+    - "<strong>Youjian Zhang</strong>*"
     - Yucai Bai
     - Chaoyue Wang
     - Yaohui Jin

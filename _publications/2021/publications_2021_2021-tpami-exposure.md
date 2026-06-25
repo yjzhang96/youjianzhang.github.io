@@ -1,7 +1,7 @@
 ---
 title: "Exposure Trajectory Recovery from Motion Blur"
 authors: 
-    - Youjian Zhang 
+    - "<strong>Youjian Zhang</strong>"
     - Chaoyue Wang 
     - Stephen John Maybank
     -  Dacheng Tao

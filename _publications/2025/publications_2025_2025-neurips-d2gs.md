@@ -1,5 +1,5 @@
 ---
-title: "D2GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction"
+title: "D<sup>2</sup>GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction"
 authors: 
     - Kejing Xia
     - Jidong Jia
@@ -7,7 +7,7 @@ authors:
     - Yucai Bai
     - Li Sun
     - Dacheng Tao
-    - Youjian Zhang#
+    - "<strong>Youjian Zhang</strong>#"
 pub: "Neural Information Processing Systems (NeurIPS)"
 pub_date: 2025
 date: 2025-12-01

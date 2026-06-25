@@ -1,7 +1,7 @@
 ---
 title: "Video Frame Interpolation without Temporal Priors"
 authors: 
-    - Youjian Zhang* 
+    - "<strong>Youjian Zhang</strong>*"
     - Chaoyue Wang*
     - Dacheng Tao
 pub: "Neural Information Processing Systems (NeurIPS)"

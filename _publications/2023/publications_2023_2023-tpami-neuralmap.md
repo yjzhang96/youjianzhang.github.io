@@ -1,7 +1,7 @@
 ---
 title: "Neural Maximum A Posteriori Estimation on Unpaired Data for Motion Deblurring"
 authors: 
-    - Youjian Zhang 
+    - "<strong>Youjian Zhang</strong>" 
     - Chaoyue Wang
     -  Dacheng Tao
 pub: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"

@@ -2,7 +2,7 @@
 title: "Skeleton2Stage: Reward-Guided Fine-Tuning for Physically Plausible Dance Generation"
 authors: 
     - Jidong Jia*
-    - Youjian Zhang*
+    - "<strong>Youjian Zhang</strong>*"
     - Huan Fu
     - Dacheng Tao
 pub: "arXiv preprint"
