@@ -14,10 +14,10 @@ pub_date: 2026
 date: 2026-05-01
 abstract:
     This work introduces a novel mesh-extraction method using LiDAR point clouds as diffusion guidance to correct geometry and scale inaccuracies in 3D generative models.
-cover: /assets/images/covers/MM-TRELLIS.png
+cover: /assets/images/covers/mmtrellis.png
 links:
-    Paper: "#"
-    Code: "#"
-    Project page: "#"
+    Paper: "https://arxiv.org/abs/2606.24301"
+    Code: "https://github.com/HongliXiao/MM-TRELLIS"
+    Project page: "https://honglixiao.github.io/mm-trellis.github.io/"
 selected: true
 ---
