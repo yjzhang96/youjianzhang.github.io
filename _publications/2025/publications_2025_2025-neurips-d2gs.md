@@ -16,8 +16,7 @@ abstract:
 cover: /assets/images/covers/D2GS.png
 links:
     Paper: "https://proceedings.neurips.cc/paper_files/paper/2025/file/524ff06d5375d76e93d8490e654a81bf-Paper-Conference.pdf"
-    Code: "#"
-    Porject page: "#"
+    Code(coming soon): "#"
 selected: true
 ---
 

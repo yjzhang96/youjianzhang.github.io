@@ -13,6 +13,5 @@ abstract: "This paper introduces a novel method that generates semantic-aware gl
 cover: /assets/images/covers/dynamic-blurry-generation.png
 links:
     Paper: "https://doi.org/10.1145/3503161.3548106"
-    Code: "#"
 selected: false
 ---

@@ -16,7 +16,7 @@ abstract: "This paper introduces HiFiVe, a training-free framework that enhances
 cover: /assets/images/covers/Hifive.png
 links:
     Paper: "https://arxiv.org/abs/2606.25300"
-    Project page: "https://honglixiao.github.io/hifive.github.io/"
     Code(coming soon): ""
+    Project page: "https://honglixiao.github.io/hifive.github.io/"
 selected: false
 ---
